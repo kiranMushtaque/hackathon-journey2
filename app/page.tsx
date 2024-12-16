@@ -48,7 +48,6 @@ import BlogPosts from "./components/blogpost";
 
 
 
-import Footer from "./components/footer";
 
 
 
@@ -262,7 +261,6 @@ const Page = () => {
           </div>
         </div>
 
-<Resturant />
         <StatsSection />
         <MenuAndChefSection />
         <Index />
@@ -271,7 +269,7 @@ const Page = () => {
     
 
   
-      <Footer />
+      
     
     </div>
   );
